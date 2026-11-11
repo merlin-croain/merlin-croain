@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    full-stack engineer @ klara · rails · react · llm
+    ml engineer @ klara · rails · react · llm
     <br>
     off work: a proxmox homelab
     <br>
